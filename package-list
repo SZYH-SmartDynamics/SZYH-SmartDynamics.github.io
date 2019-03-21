@@ -21,6 +21,11 @@ com.szyh.iwaasdk.sdk.ros
 com.szyh.iwaasdk.sdk.ros.define
 com.szyh.iwaasdk.sdk.ros.interfaces
 com.szyh.iwaasdk.sdk.ros.util
+com.szyh.iwaasdk.sdk.upgrade
+com.szyh.iwaasdk.sdk.upgrade.bean
+com.szyh.iwaasdk.sdk.upgrade.define
+com.szyh.iwaasdk.sdk.upgrade.http
+com.szyh.iwaasdk.sdk.upgrade.interfaces
 com.szyh.iwaasdk.socket
 com.szyh.iwaasdk.socket.exception
 com.szyh.iwaasdk.socket.helper
